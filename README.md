@@ -14,6 +14,13 @@ Utiliser la richesse des informations disponibles dans [OpenStreetMap](http://ww
 
 **Attention :** Les fichiers en générés ne respectent pas forcément les spécifications ADMIN-EXPRESS | IGN ils visent seulement à s'en rapprocher pour pallier à un besoin de données/informations.
 
+* CHEF_LIEU
+* REGION
+* DEPARTEMENT
+* EPCI
+* ARRONDISSEMENT
+* COMMUNE
+
 ## Origine des données
 
 Les données OpenStreetMap utilisées pour générer ces fichiers régionaux proviennent de [Geofabrik](https://download.geofabrik.de/europe/france.html).
