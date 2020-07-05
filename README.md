@@ -12,14 +12,14 @@ Utiliser la richesse des informations disponibles dans [OpenStreetMap](http://ww
 ## Les données générées
 **[Télécharger les données générées sur la France métropolitaine](https://data.data-wax.com/OSM2IGEOADMIN/FRANCE)**
 
-**Attention :** Les fichiers en générés ne respectent pas forcément les spécifications ADMIN-EXPRESS | IGN ils visent seulement à s'en rapprocher pour pallier à un besoin de données/informations.
-
 * CHEF_LIEU
 * REGION
 * DEPARTEMENT
 * EPCI
 * ARRONDISSEMENT
 * COMMUNE
+
+**Attention :** Les fichiers en générés ne respectent pas forcément les spécifications ADMIN-EXPRESS | IGN ils visent seulement à s'en rapprocher pour pallier à un besoin de données/informations.
 
 ## Origine des données
 
